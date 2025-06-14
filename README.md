@@ -5,39 +5,39 @@ Welcome to my portfolio of programming projects! This collection showcases a ran
 🧠 Projects
 
 1. 🌐 Language Translator
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/language-translator
 An English-to-Spanish and French translation app that uses a CSV-powered dictionary. Features interactive user prompts and error handling for unknown words.
 
 2. 📝 Personal Assistant
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/personal-assistant
 A command-line assistant that helps manage to-do lists and contacts. Built with Python classes and JSON file storage for persistent data between sessions.
 
 3. 🎨 Drawing App
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/drawing-app 
 Create fun shapes like stars, hexagons, and squares using the Turtle graphics module. Demonstrates loop usage and modular function design for shape generation.
 
 4. 🐶 Dog Photo Gallery
-Live Site
+Live Site - https://dog-gallery-2.onrender.com/
 A Flask web app that fetches and displays 30 images from over 100 dog breeds using a dropdown selector. Implements GET and POST methods with dynamic image rendering.
 
-5. 🃏 Female Supervillain Trading Card App
-Live Site
+5. 🃏 Basic Female Supervillain Trading Card App
+Live Site - https://female-supervillain-trading-card-app-mj2h.onrender.com
 A full-stack CRUD Flask app to create and manage fictional female supervillain trading cards. Features RESTful APIs, SQLAlchemy, form validation, and Jinja2 templating.
 
 6. 🔁 Refactored Female Supervillain Trading Card App
-Live Site
+Live Site - https://female-supervillain-trading-card-app.onrender.com
 A cleaner, more robust version of the supervillain card app — featuring the same full-stack capabilities, with improved structure and responsiveness.
 
 7. 🚢 Surviving the Titanic Scatterplot
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/surviving-the-titanic-scatterplot 
 A scatter plot using Seaborn to visualize Titanic passenger data and examine survival based on fare and age. Clean, simple insights from complex data.
 
 8. 💬 Comparing Happiness and Hard Work Bubble Plot
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/comparing-happiness-and-hard-work-bubbleplot
 A vibrant bubble plot showing the relationship between salary and happiness scores. Demonstrates advanced use of Seaborn's scatterplot() with hue, size, and sizes.
 
 9. 🐾 Animal Conservation Mosaic Plot
-GitHub Repo
+GitHub Repo - https://github.com/vonschell/animal-conservation-web-scraper-mosaic-plot
 Visualizes the conservation statuses of animals (Mammalia, Aves, Reptilia) with a mosaic plot using Statsmodels. Highlights the urgency around vulnerable and endangered species.
 
 🧭 What I Used
