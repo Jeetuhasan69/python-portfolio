@@ -4,29 +4,29 @@ Welcome to my portfolio of programming projects! This collection showcases a ran
 
 🧠 Projects
 
-1. 🌐 Language Translator
-GitHub Repo - https://github.com/vonschell/language-translator
-An English-to-Spanish and French translation app that uses a CSV-powered dictionary. Features interactive user prompts and error handling for unknown words.
+1. 🔁 Refactored Female Supervillain Trading Card App
+Live Site - https://female-supervillain-trading-card-app.onrender.com
+A cleaner, more robust version of the supervillain card app — featuring the same full-stack capabilities, with improved structure and responsiveness.
 
-2. 📝 Personal Assistant
-GitHub Repo - https://github.com/vonschell/personal-assistant
-A command-line assistant that helps manage to-do lists and contacts. Built with Python classes and JSON file storage for persistent data between sessions.
-
-3. 🎨 Drawing App
-GitHub Repo - https://github.com/vonschell/drawing-app 
-Create fun shapes like stars, hexagons, and squares using the Turtle graphics module. Demonstrates loop usage and modular function design for shape generation.
-
-4. 🐶 Dog Photo Gallery
+2. 🐶 Dog Photo Gallery
 Live Site - https://dog-gallery-2.onrender.com/
 A Flask web app that fetches and displays 30 images from over 100 dog breeds using a dropdown selector. Implements GET and POST methods with dynamic image rendering.
 
-5. 🃏 Basic Female Supervillain Trading Card App
+3. 🌐 Language Translator
+GitHub Repo - https://github.com/vonschell/language-translator
+An English-to-Spanish and French translation app that uses a CSV-powered dictionary. Features interactive user prompts and error handling for unknown words.
+
+4. 📝 Personal Assistant
+GitHub Repo - https://github.com/vonschell/personal-assistant
+A command-line assistant that helps manage to-do lists and contacts. Built with Python classes and JSON file storage for persistent data between sessions.
+
+5. 🎨 Drawing App
+GitHub Repo - https://github.com/vonschell/drawing-app 
+Create fun shapes like stars, hexagons, and squares using the Turtle graphics module. Demonstrates loop usage and modular function design for shape generation.
+
+6. 🃏 Basic Female Supervillain Trading Card App
 Live Site - https://female-supervillain-trading-card-app-mj2h.onrender.com
 A full-stack CRUD Flask app to create and manage fictional female supervillain trading cards. Features RESTful APIs, SQLAlchemy, form validation, and Jinja2 templating.
-
-6. 🔁 Refactored Female Supervillain Trading Card App
-Live Site - https://female-supervillain-trading-card-app.onrender.com
-A cleaner, more robust version of the supervillain card app — featuring the same full-stack capabilities, with improved structure and responsiveness.
 
 7. 🚢 Surviving the Titanic Scatterplot
 GitHub Repo - https://github.com/vonschell/surviving-the-titanic-scatterplot 
